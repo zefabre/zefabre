@@ -7,9 +7,9 @@
 
 ---
 
-I am a physics and computer science student at Miami University working at the intersection of **quantum computing, machine learning, cold atom physics, and applied mathematics**. My research spans quantum machine learning models for healthcare and financial prediction, IBM Quantum hardware execution, numerical approximation methods, and experimental AMO physics through optical trapping systems.
+I am a physics and computer science recent graduate at Miami University working at the intersection of **quantum computing, machine learning, cold atom physics, and applied mathematics**. My research spans quantum machine learning, quantum hardware execution, numerical approximation methods, and experimental AMO physics through optical trapping systems (MOT, FORT, ODT, Optical Tweezers).
 
-I am interested in research-driven opportunities in **quantum computing**, **quantitative finance**, **healthcare AI**, and **computational physics**, especially roles that combine rigorous mathematical modeling with real-world technical impact.
+I am interested in research-driven opportunities in **quantum computing**, **quantitative finance**, **AI**, and **physics (research)**, especially roles bring about real-world impact.
 
 ---
 
@@ -69,36 +69,29 @@ Awards: **RedHawk Excellence Scholarship · John & Genny Snider Scholarship · R
 
 ## Awards & Certifications
 
-* 🏅 IBM Qiskit Global Summer School — **Quantum Excellence Badge**
-* 🚀 **1st Place nationally** — 2021 Brazilian Rocket Exhibition, Solid Fuel category
-* 🚀 **2× Gold Medalist** — 2020 & 2021 Brazilian Virtual Rocket Exhibition
-* 🌌 **1st Place nationally** — 2020 Brazilian Astronomy and Astronautics Olympics
-* 🎓 RedHawk Excellence, John & Genny Snider, and R.L. Edwards Scholarship recipient
-* 🎓 Graduate Assistantship recipient
+* IBM Qiskit Global Summer School — **Quantum Excellence Badge**
+* **1st Place nationally** — 2021 Brazilian Rocket Exhibition, Solid Fuel category
+* **2× Gold Medalist** — 2020 & 2021 Brazilian Virtual Rocket Exhibition
+* **1st Place nationally** — 2020 Brazilian Astronomy and Astronautics Olympics
+* RedHawk Excellence, John & Genny Snider, and R.L. Edwards Scholarship recipient
+* Graduate Assistantship recipient
 
 ---
 
-## Technical Skills
+## Skills
 
-**Quantum Computing:** Qiskit · IBM Quantum System One · Quantum Machine Learning · QNN · QSVC · VQC · PQK · QELM · Quantum Circuit Design
+Python, C++, Java, C#, SQL, R, Scheme, Prolog, Qiskit, MATLAB, ML, Quantum Machine Learning, Scikit-Learn, PyTorch,  NumPy, PowerBI, SNS, MatplotLib, Git, Linux, Cloud Computing, JavaScript, Bootstrap, HTML, CSS, PHP, jQuery, REST APIs, Portuguese, Spanish, Teamwork, Communication, Quick Learner.
 
-**Programming Languages:** Python · C++ · Java · C# · SQL · R · Scheme · Prolog · JavaScript · PHP
-
-**Machine Learning & Data Science:** Scikit-Learn · PyTorch · NumPy · MATLAB · Power BI · Matplotlib · Statistical Modeling
-
-**Web, Cloud & Systems:** Git · Linux · Cloud Computing · REST APIs · HTML/CSS · Bootstrap · jQuery
-
-**Spoken Languages:** Portuguese — native · English — fluent · Spanish — conversational
 
 ---
 
 ## What I’m Looking For
 
-I am actively seeking research internships and full-time opportunities starting in 2026 in:
+I am actively seeking research internships and full-time opportunities starting in August 2026 in:
 
-* **Quantum Computing Research** — quantum algorithms, QML, hardware applications, and quantum-classical models
-* **Quantitative Finance** — pricing models, prediction systems, and algorithmic research
-* **Healthcare AI** — medical imaging, quantum ML, and computational modeling
-* **Computational Physics** — cold atoms, numerical methods, and applied mathematical modeling
+* **Quantum Computing Research**
+* **Quantitative Finance**
+* **Applied Artifical Intelligence**
+* **Physics (Research)**
 
 *Based in Oxford, Ohio · Open to relocation starting May 2026*

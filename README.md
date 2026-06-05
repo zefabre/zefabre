@@ -1,82 +1,104 @@
 # José Roberto Fabre Segundo
 
-**Physics BS · Computer Science MS — Miami University ('26/27) | GPA: 3.72 · 7× Dean's List**
+**Physics B.S. & M.S. · Computer Science B.A. — Miami University | GPA: 3.76 · 6× Dean’s List · 2× President’s List**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Roberto%20Fabre-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-roberto-fabre/)
-[![Email](https://img.shields.io/badge/Email-fabresj@miamioh.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fabresj@miamioh.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Roberto%20Fabre-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jose-roberto-fabre/)
+[![Email](https://img.shields.io/badge/Email-fabresj@miamioh.edu-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:fabresj@miamioh.edu)
 
 ---
 
-I'm an undergraduate researcher working on quantum computing, machine learning, and applied mathematics. My work spans quantum algorithm design and hardware execution on IBM Quantum systems, classical-quantum hybrid models for medical and financial applications, and numerical methods for function approximation. I'm looking to bring this background into research-driven roles in **quantitative finance**, **quantum computing**, and **healthcare**.
+I am a physics and computer science student at Miami University working at the intersection of **quantum computing, machine learning, cold atom physics, and applied mathematics**. My research spans quantum machine learning models for healthcare and financial prediction, IBM Quantum hardware execution, numerical approximation methods, and experimental AMO physics through optical trapping systems.
+
+I am interested in research-driven opportunities in **quantum computing**, **quantitative finance**, **healthcare AI**, and **computational physics**, especially roles that combine rigorous mathematical modeling with real-world technical impact.
 
 ---
 
 ## Research & Projects
 
-### Quantum Extreme Learning Machine for Financial Modeling *(Work in Progress)*
-Designing a hybrid quantum-classical pipeline that encodes financial time-series features into the spin states of valence electrons, performs serial quantum measurements to generate probability vectors, and feeds them into a Quantum Extreme Learning Machine (QELM) for prediction tasks. Benchmarking against classical ELMs and standard ML baselines to quantify quantum advantage in feature expressibility. Set to be presented at Miami University's Capstone culminating ceremony.
+### Quantum Extreme Learning Machine for Healthcare & Financial Modeling *(Nov. 2025 – Present)*
 
-### Magneto-Optical Trap (MOT) Construction *(Work in Progress)*
-Contributing to the physical construction and optical calibration of a magneto-optical trap for atomic cooling experiments within Miami University's physics department. Involves laser alignment, magnetic field tuning, and vacuum system handling for preparing ultracold atomic ensembles.
+Developing a hybrid quantum-classical Quantum Extreme Learning Machine framework for predictive modeling and classification tasks in healthcare and financial contexts. The project includes feature encoding, serial quantum measurement protocols, probability-vector generation, and benchmarking against classical machine learning and extreme learning machine baselines.
 
-### Iterative Function Approximation Algorithm *(Manuscript in Preparation)*
-Developed a novel iterative algorithm that approximates irrational functions using compositions of well-known square expressions. Demonstrated that two iterations of the algorithm outperform 4th-degree Taylor series expansions in numerical accuracy, offering a computationally efficient alternative with applications in real-time systems and embedded computation. Presented at Pi Mu Epsilon's 51st Annual Mathematics Conference and as an invited guest speaker at Universidade Federal de Juiz de Fora's Mathematics Research Exposition.
+### Optical Dipole Trap Construction *(Nov. 2025 – Present)*
+
+Supporting experimental AMO physics research involving Rubidium-85 laser cooling and optical trapping. Maintained and optimized a Magneto-Optical Trap to support cold atom experimentation, contributed to the construction of a Far-Off-Resonance Trap, and assisted with optical alignment, system tuning, troubleshooting, and experimental setup.
 
 ### AI Workforce Feasibility: Systematic Review *(Under Review)*
-Led a PRISMA-methodology systematic review of 300+ peer-reviewed articles assessing the feasibility of AI fully substituting human labor across industries. Synthesized findings across current model capabilities, sectoral adoption barriers, and human-AI complementarity. Manuscript under review under the supervision of Dr. Behrouz Zolfaghari.
 
-### Independent Study in Particle Physics
-Directed self-study under Dr. Taylor Murphy covering foundational and advanced topics in particle physics and quantum field theory, using Veltman's *Concepts of Elementary Particle Physics* and Maggiore's *A Modern Introduction to Quantum Field Theory* as primary texts.
+Reviewed 300+ peer-reviewed articles using PRISMA methodology to assess the feasibility of AI-driven labor substitution across industries. Synthesized findings on current AI capabilities, limitations, sector-specific adoption barriers, and implementation challenges. Manuscript under review.
+
+### Iterative Function Approximation Algorithm *(May 2023 – Present)*
+
+Created an approximation algorithm for irrational functions using compositions of square expressions. Demonstrated stronger numerical accuracy than fourth-degree Taylor series approximations after two iterations, offering a computationally efficient alternative for approximation tasks. Presented findings at Pi Mu Epsilon’s 51st Annual Mathematics Conference and international conferences.
 
 ---
 
 ## Professional Experience
 
-### Research Intern - Cleveland Clinic *(May–August 2025)*
-Designed and implemented personalized quantum architectures for medical image classification, including Quantum Neural Networks (QNNs), Quantum Support Vector Classifiers (QSVCs), and Variational Quantum Classifiers (VQCs). Built Projected Quantum Kernel (PQK) models operating on 7-qubit circuits to classify MRI features, achieving **86% accuracy versus 85% from classical models while using only 30% of the training data**. Executed algorithms on IBM Quantum System One hardware and presented findings to multidisciplinary teams of clinicians and researchers at the Discovery Accelerator culminating ceremony.
+### Research Assistant — Cleveland Clinic *(May – August 2025)*
 
-### Resident Assistant — Miami University *(August 2024–Present)*
-Manage community operations for 300+ residents across conflict resolution, crisis response, and administrative coordination, running 15+ programming events per semester.
+Developed quantum machine learning models for MRI classification, including Quantum Neural Networks, Quantum Support Vector Classifiers, Variational Quantum Classifiers, and Projected Quantum Kernel models. Achieved **86% accuracy/AUC**, outperforming classical models while using **70% less training data**. Deployed models on IBM Quantum System One and presented results to clinicians, researchers, and Discovery Accelerator/Cleveland Clinic stakeholders.
 
-### Administrative Intern — Dual Construtora *(June–August 2023)*
-Built a Python-based productivity tracking system that collected on-site construction data through structured worker interviews and photographic documentation, then benchmarked outputs against internal performance targets. Analysis directly informed staffing and workflow policy changes that **improved overall site productivity by 30%**.
+### Resident Assistant — Miami University *(August 2024 – May 2026)*
 
-### Physics & English Tutor — Self-Employed *(2021)*
-Delivered targeted physics instruction that placed 3 students in the **top 5% nationally** on Brazil's ENEM and PISM examinations. Advanced five students from A2 to B2 English proficiency (CEFR) through structured conversation and exam preparation.
+Managed community operations for 300+ residents, facilitating conflict resolution, crisis response, and administrative coordination. Organized and supported 15+ residential programming events per semester.
+
+### Administrative Intern — Duall Construtora *(June – August 2023)*
+
+Built a Python-based productivity tracking system that collected and organized on-site construction data. Compared outputs against internal performance benchmarks to evaluate productivity targets. Analysis informed staffing and workflow changes that improved overall site productivity by **30%**.
+
+### Physics & English Tutor — Self-Employed *(January – December 2021)*
+
+Delivered targeted physics instruction that helped 3 students score in the **top 5% nationally** on Brazil’s ENEM and PISM examinations. Advanced 5 students from A2 to B2 English proficiency under the CEFR framework.
 
 ---
 
-## Awards & Recognitions
+## Education
 
-- 🏅 IBM Qiskit Global Summer School — **Quantum Excellence Badge**
-- 🧮 Selected for Miami University's **Putnam Competition Team** (2023–24)
-- 🎓 **John and Genny Snider & R.L. Edwards Scholarship** recipient
-- 🚀 **1st Place nationally** — 2021 Brazilian Rocket Exhibition (Solid Fuel category)
-- 🚀 **2× Gold Medal** — 2020 & 2021 Brazilian Virtual Rocket Exhibition
-- 🌌 **1st Place nationally** — 2020 Brazilian Astronomy and Astronautics Olympics
+### Miami University — Oxford, Ohio
+
+**Physics B.S. & M.S. · Computer Science B.A.**
+Undergraduate expected: **August 2026**
+Graduate expected: **May 2028**
+GPA: **3.76**
+Honors: **6× Dean’s List · 2× President’s List**
+Affiliations: **Alpha Kappa Psi**
+Awards: **RedHawk Excellence Scholarship · John & Genny Snider Scholarship · R.L. Edwards Scholarship · Graduate Assistantship**
+
+---
+
+## Awards & Certifications
+
+* 🏅 IBM Qiskit Global Summer School — **Quantum Excellence Badge**
+* 🚀 **1st Place nationally** — 2021 Brazilian Rocket Exhibition, Solid Fuel category
+* 🚀 **2× Gold Medalist** — 2020 & 2021 Brazilian Virtual Rocket Exhibition
+* 🌌 **1st Place nationally** — 2020 Brazilian Astronomy and Astronautics Olympics
+* 🎓 RedHawk Excellence, John & Genny Snider, and R.L. Edwards Scholarship recipient
+* 🎓 Graduate Assistantship recipient
 
 ---
 
 ## Technical Skills
 
-**Quantum Computing:** Qiskit · IBM Quantum (System One) · Quantum Circuit Design · VQC · QSVC · PQK · QELM · Variational Algorithms
+**Quantum Computing:** Qiskit · IBM Quantum System One · Quantum Machine Learning · QNN · QSVC · VQC · PQK · QELM · Quantum Circuit Design
 
-**Languages:** Python · C++ · Java · C# · SQL · R · Scheme · Prolog · JavaScript · PHP
+**Programming Languages:** Python · C++ · Java · C# · SQL · R · Scheme · Prolog · JavaScript · PHP
 
-**Data Science & ML:** Scikit-Learn · NumPy · PyTorch · Tableau · Power BI
+**Machine Learning & Data Science:** Scikit-Learn · PyTorch · NumPy · MATLAB · Power BI · Matplotlib · Statistical Modeling
 
-**Web & Systems:** HTML/CSS · Bootstrap · jQuery · REST APIs · Linux · Git · AWS EC2
+**Web, Cloud & Systems:** Git · Linux · Cloud Computing · REST APIs · HTML/CSS · Bootstrap · jQuery
 
-**Spoken Languages:** Portuguese (native) · English (fluent) · Spanish (conversational)
+**Spoken Languages:** Portuguese — native · English — fluent · Spanish — conversational
 
 ---
 
-## What I'm Looking For
+## What I’m Looking For
 
-I'm actively seeking research internships and full-time opportunities starting 2026 in:
+I am actively seeking research internships and full-time opportunities starting in 2026 in:
 
-- **Quantitative Finance** — pricing, algorithmic trading, etc.
-- **Quantum Computing Research** — algorithm design, hardware applications and development, error mitigation
-- **Healthcare AI** — medical imaging, quantum ML, etc.
+* **Quantum Computing Research** — quantum algorithms, QML, hardware applications, and quantum-classical models
+* **Quantitative Finance** — pricing models, prediction systems, and algorithmic research
+* **Healthcare AI** — medical imaging, quantum ML, and computational modeling
+* **Computational Physics** — cold atoms, numerical methods, and applied mathematical modeling
 
-*Based in Oxford, OH · Open to relocation starting May 2026*
+*Based in Oxford, Ohio · Open to relocation starting May 2026*

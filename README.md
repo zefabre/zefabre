@@ -1,6 +1,6 @@
 # José Roberto Fabre Segundo
 
-**Physics B.S. & M.S. · Computer Science B.A. — Miami University | GPA: 3.76 · 6× Dean’s List · 2× President’s List**
+**Physics B.S. & M.S. · Computer Science B.A. @ Miami University | GPA: 3.76 · 6× Dean’s List · 2× President’s List**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Roberto%20Fabre-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jose-roberto-fabre/)
 [![Email](https://img.shields.io/badge/Email-fabresj@miamioh.edu-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:fabresj@miamioh.edu)

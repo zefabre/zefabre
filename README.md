@@ -35,19 +35,19 @@ Created an approximation algorithm for irrational functions using compositions o
 
 ## Professional Experience
 
-### Research Assistant — Cleveland Clinic *(May – August 2025)*
+### Research Assistant - Cleveland Clinic *(May – August 2025)*
 
 Developed quantum machine learning models for MRI classification, including Quantum Neural Networks, Quantum Support Vector Classifiers, Variational Quantum Classifiers, and Projected Quantum Kernel models. Achieved **86% accuracy/AUC**, outperforming classical models while using **70% less training data**. Deployed models on IBM Quantum System One and presented results to clinicians, researchers, and Discovery Accelerator/Cleveland Clinic stakeholders.
 
-### Resident Assistant — Miami University *(August 2024 – May 2026)*
+### Resident Assistant - Miami University *(August 2024 – May 2026)*
 
 Managed community operations for 300+ residents, facilitating conflict resolution, crisis response, and administrative coordination. Organized and supported 15+ residential programming events per semester.
 
-### Administrative Intern — Duall Construtora *(June – August 2023)*
+### Administrative Intern - Duall Construtora *(June – August 2023)*
 
 Built a Python-based productivity tracking system that collected and organized on-site construction data. Compared outputs against internal performance benchmarks to evaluate productivity targets. Analysis informed staffing and workflow changes that improved overall site productivity by **30%**.
 
-### Physics & English Tutor — Self-Employed *(January – December 2021)*
+### Physics & English Tutor - Self-Employed *(January – December 2021)*
 
 Delivered targeted physics instruction that helped 3 students score in the **top 5% nationally** on Brazil’s ENEM and PISM examinations. Advanced 5 students from A2 to B2 English proficiency under the CEFR framework.
 
@@ -55,7 +55,7 @@ Delivered targeted physics instruction that helped 3 students score in the **top
 
 ## Education
 
-### Miami University — Oxford, Ohio
+### Miami University - Oxford, Ohio
 
 **Physics B.S. & M.S. · Computer Science B.A.**
 Undergraduate expected: **August 2026**
@@ -69,10 +69,10 @@ Awards: **RedHawk Excellence Scholarship · John & Genny Snider Scholarship · R
 
 ## Awards & Certifications
 
-* IBM Qiskit Global Summer School — **Quantum Excellence Badge**
-* **1st Place nationally** — 2021 Brazilian Rocket Exhibition, Solid Fuel category
-* **2× Gold Medalist** — 2020 & 2021 Brazilian Virtual Rocket Exhibition
-* **1st Place nationally** — 2020 Brazilian Astronomy and Astronautics Olympics
+* IBM Qiskit Global Summer School - **Quantum Excellence Badge**
+* **1st Place nationally** - 2021 Brazilian Rocket Exhibition, Solid Fuel category
+* **2× Gold Medalist** - 2020 & 2021 Brazilian Virtual Rocket Exhibition
+* **1st Place nationally** - 2020 Brazilian Astronomy and Astronautics Olympics
 * RedHawk Excellence, John & Genny Snider, and R.L. Edwards Scholarship recipient
 * Graduate Assistantship recipient
 
